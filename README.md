@@ -57,12 +57,10 @@ The dashboard includes:
 
 ---
 
-## 💡 Future Improvements
+## 💡 Interactive dashboard using Tableau
 
-- Use Power BI/Tableau for interactive dashboards
-- Integrate SQL/PostgreSQL for storing data
-- Automate the process fully using Python + Excel + Power BI
-
+![image](https://github.com/user-attachments/assets/53f76fae-dee6-4c7c-8380-045e27b59f4a)
+Live Link: https://public.tableau.com/app/profile/sumayya.ali/viz/irish_residential_property_data/KildareHousePriceAnalysisDashboard 
 ---
 
 ## 📜 License
